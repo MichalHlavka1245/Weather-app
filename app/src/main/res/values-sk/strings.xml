@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Počasie</string>
+    <string name="change_language">🌐 Jazyk</string>
+    <string name="enter_city">Zadajte mesto (napr. Košice)</string>
+    <string name="country_code">Kód krajiny (napr. SK, DE, US) — nepovinné</string>
+    <string name="show_weather">Zobraziť počasie</string>
+    <string name="loading">Načítavam dáta z API...</string>
+    <string name="last_searched">🕐 Posledné hľadané:</string>
+    <string name="weather_in">Počasie v:</string>
+    <string name="temperature">Teplota 🌡️</string>
+    <string name="humidity">Vlhkosť 💧</string>
+    <string name="pressure">Tlak 🌀</string>
+    <string name="coordination">Súradnice 🌍</string>
+    <string name="wind_speed">Rýchlosť vetra 💨</string>
+    <string name="sky">Obloha ☁️</string>
+    <string name="lon">zem. dĺžka :</string>
+    <string name="lan">zem. šírka :</string>
+    <string name="error_city_not_found">❌ Mesto \"%1$s\" neexistuje. Skontrolujte názov a skúste znova.</string>
+    <string name="error_no_internet">❌ Žiadne internetové pripojenie. Skontrolujte sieť.</string>
+    <string name="na">N/A</string>
+    <string name="dark_mode">Tmavý režim</string>
+    <string name="light_mode">Svetlý režim</string>
+
+    <string name="thunderstorm_with_light_rain">Búrka so slabým dažďom</string>
+    <string name="thunderstorm_with_rain">Búrka s dažďom</string>
+    <string name="thunderstorm_with_heavy_rain">Búrka so silným dažďom</string>
+    <string name="light_thunderstorm">Slabá búrka</string>
+    <string name="thunderstorm">Búrka</string>
+    <string name="heavy_thunderstorm">Silná búrka</string>
+    <string name="ragged_thunderstorm">Nepravidelná búrka</string>
+    <string name="thunderstorm_with_light_drizzle">Búrka so slabým mrholením</string>
+    <string name="thunderstorm_with_drizzle">Búrka s mrholením</string>
+    <string name="thunderstorm_with_heavy_drizzle">Búrka so silným mrholením</string>
+
+    <string name="light_intensity_drizzle">Slabé mrholenie</string>
+    <string name="drizzle">Mrholenie</string>
+    <string name="heavy_intensity_drizzle">Silné mrholenie</string>
+    <string name="light_intensity_drizzle_rain">Slabý mrholiaci dážď</string>
+    <string name="drizzle_rain">Mrholiaci dážď</string>
+    <string name="heavy_intensity_drizzle_rain">Silný mrholiaci dážď</string>
+    <string name="shower_rain_and_drizzle">Prehánky a mrholenie</string>
+    <string name="heavy_shower_rain_and_drizzle">Silné prehánky a mrholenie</string>
+    <string name="shower_drizzle">Mrholiace prehánky</string>
+
+    <string name="light_rain">Slabý dážď</string>
+    <string name="moderate_rain">Mierny dážď</string>
+    <string name="heavy_intensity_rain">Silný dážď</string>
+    <string name="very_heavy_rain">Veľmi silný dážď</string>
+    <string name="extreme_rain">Extrémny dážď</string>
+    <string name="freezing_rain">Mrznúci dážď</string>
+    <string name="light_intensity_shower_rain">Slabé dažďové prehánky</string>
+    <string name="shower_rain">Dažďové prehánky</string>
+    <string name="heavy_intensity_shower_rain">Silné dažďové prehánky</string>
+    <string name="ragged_shower_rain">Nepravidelné dažďové prehánky</string>
+
+    <string name="light_snow">Slabé sneženie</string>
+    <string name="snow">Sneženie</string>
+    <string name="heavy_snow">Silné sneženie</string>
+    <string name="sleet">Dážď so snehom</string>
+    <string name="light_shower_sleet">Slabé prehánky dažďa so snehom</string>
+    <string name="shower_sleet">Prehánky dažďa so snehom</string>
+    <string name="light_rain_and_snow">Slabý dážď so snehom</string>
+    <string name="rain_and_snow">Dážď so snehom</string>
+    <string name="light_shower_snow">Slabé snehové prehánky</string>
+    <string name="shower_snow">Snehové prehánky</string>
+    <string name="heavy_shower_snow">Silné snehové prehánky</string>
+
+    <string name="mist">Opar</string>
+    <string name="smoke">Dym</string>
+    <string name="haze">Zákal</string>
+    <string name="sand_dust_whirls">Piesočné/prachové víry</string>
+    <string name="fog">Hmla</string>
+    <string name="sand">Piesok</string>
+    <string name="dust">Prach</string>
+    <string name="volcanic_ash">Sopečný popol</string>
+    <string name="squalls">Nárazy vetra</string>
+    <string name="tornado">Tornádo</string>
+
+    <string name="clear_sky">Jasná obloha</string>
+
+    <string name="few_clouds">Malá oblačnosť</string>
+    <string name="scattered_clouds">Rozptýlené oblaky</string>
+    <string name="broken_clouds">Pretrhaná oblačnosť</string>
+    <string name="overcast_clouds">Zamračené</string>
+</resources>
